@@ -17,8 +17,18 @@ header {
     align-items: center;
 }
 
+header nav {
+    flex: 1;
+}
+
+header nav ul{
+    display: flex;
+    justify-content:flex-end;
+    
+}
 header nav li {
     list-style-type: none;
+    padding: 1em;
 }
 
 html {
