@@ -3,8 +3,22 @@
     margin: 0;
 }
 
+.logo {
+    height: 5em;
+}
+
+ul {
+    padding-left: 0;
+}
+
 header {
-    margin-bottom: 100px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+header nav li {
+    list-style-type: none;
 }
 
 html {
@@ -45,7 +59,6 @@ body {
     color: #000000;
     font-weight: 700;    
 }
-
 
 .main-nav {
     color: #000000;
