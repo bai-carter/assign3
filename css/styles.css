@@ -92,5 +92,10 @@ p {
     justify-content: space-around;
 }
 
-
+.picture-page-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
 
